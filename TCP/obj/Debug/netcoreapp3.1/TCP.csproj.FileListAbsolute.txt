@@ -1,0 +1,36 @@
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.exe
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.deps.json
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.json
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.dev.json
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.dll
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.csprojAssemblyReference.cache
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.Form1.resources
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.Form2.resources
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.GenerateResource.cache
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfoInputs.cache
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfo.cs
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.CopyComplete
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.dll
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\mubarak\source\repos\TCP IP LIS\TCP\obj\Debug\netcoreapp3.1\TCP.genruntimeconfig.cache
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.exe
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.deps.json
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.json
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.runtimeconfig.dev.json
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.dll
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\mubarak\source\repos\Muba-file share\TCP\bin\Debug\netcoreapp3.1\SimpleTCP.dll
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.Form1.resources
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.Form2.resources
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.GenerateResource.cache
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfoInputs.cache
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.AssemblyInfo.cs
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.CoreCompileInputs.cache
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.csproj.CopyComplete
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.dll
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.pdb
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.genruntimeconfig.cache
+C:\Users\mubarak\source\repos\Muba-file share\TCP\obj\Debug\netcoreapp3.1\TCP.csprojAssemblyReference.cache
